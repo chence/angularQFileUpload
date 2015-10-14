@@ -23,11 +23,7 @@
 		"Gruntfile.js"
 	],
 	"dependencies": {
-		"angular": "~1.2.16",
-		"angular-local-storage": "0.1.4"
-	},
-	"devDependencies": {
 		"angular": "*",
-		"angular-local-storage": "git@github.com:chence/angular-local-storage.git"
+		"angular-local-storage": ">0.1.4"
 	}
 }
